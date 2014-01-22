@@ -1,4 +1,1 @@
-millasota
-=========
-
-Millasota Website
+This is a website I am devloping for a artist. I am having browser compatibility issue. I am using a template from DreamWeaver CS5.5 which outline the page. I have a set of audio player displaying on the music.html page except i am having issues setting the items to stay in place. I have tried different type of commands such as "fixed" and "absolute" which is set as default as of right now. I am wondering if anyone can help with my issue so when I am displaying my page it looks correct on my browsers that I use to test such as Operah,Safari,chrome and firefox. I am a average at coding and I have tried many multiple attempts but have not succed to fix my issue please help someone!
